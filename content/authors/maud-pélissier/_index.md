@@ -9,5 +9,5 @@ organizations:
     url: https://u-paris.fr/
   - name: CLILLAC-ARP
     url: http://www.clillac-arp.univ-paris-diderot.fr/index
-superuser: false
+superuser: true
 ---
