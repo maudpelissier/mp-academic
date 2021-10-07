@@ -28,8 +28,8 @@ address:
   country: France
   country_code: FR
 directions: Olympe de Gouges building, Office 741
-# Office_hours:
-#  - 'Monday 10:00 to 13:00'
+Office_hours:
+ - 'Monday 10:00 to 13:00'
 
 contact_links:
 #  - icon: keybase
