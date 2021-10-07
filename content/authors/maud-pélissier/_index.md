@@ -1,6 +1,6 @@
 ---
 title: Maud Pélissier
-role: Maîtresse de Conférences (Permanent lecturer) in Psycholinguistics and
+role: Maître de Conférences (Permanent lecturer) in Psycholinguistics and
   Second Language Acquisition at Université de Paris
 avatar_filename: avatar
 social:
