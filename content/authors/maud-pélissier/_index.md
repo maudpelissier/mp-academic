@@ -13,7 +13,7 @@ social:
   - display:
       header: false
     link: https://www.linkedin.com/in/maud-p%C3%A9lissier-21aa956b/
-    icon_pack: far
+    icon_pack: fab
     icon: linkedin
     label: likedin
 organizations:
