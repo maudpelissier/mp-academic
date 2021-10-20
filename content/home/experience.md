@@ -50,12 +50,12 @@ experience:
     description: EEG research on mismatches between accent and message.
     
   - title: Doctoral researcher
-    company: Université Sorbonne Nouvelle, LPP
-    company_url: 'http://www.univ-paris3.fr/lpp-laboratoire-de-phonetique-et-phonologie-umr-7018-279.kjsp'
+    company: Université Paris Diderot
+    company_url: 'https://u-paris.fr/'
     location: Paris, France
     date_start: '2014-09-01'
     date_end: '2018-08-31'
-    description: 'test'
+    description: 'Effects of explicit and implicit training on the acquisition of English syntax by French learners: an ERP study'
     
 design:
   columns: '4'
