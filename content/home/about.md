@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: Biography
+widget_id: About me
 active: true
 headless: true
 weight: 20
