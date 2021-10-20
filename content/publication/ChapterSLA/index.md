@@ -25,7 +25,7 @@ doi: "https://doi.org/10.5281/zenodo.4032298"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Interpreting language learning data: tools and methods*
+publication: In *Interpreting language learning data, tools and methods*
 
 abstract: Event-related potentials (ERPs) are of great interest for second language acquisition (SLA) research, as they allow us to examine online language processing, and to compare the mechanisms that are engaged to process a first and second language.
 
