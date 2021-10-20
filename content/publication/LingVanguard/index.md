@@ -1,5 +1,5 @@
 ---
-title: "The N400 reveals implicit accent-induced prejudice"
+title: "Surprise questions in spoken French"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

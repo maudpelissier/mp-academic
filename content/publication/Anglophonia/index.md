@@ -1,10 +1,11 @@
 ---
-title: "The N400 reveals implicit accent-induced prejudice"
+title: "The perception of swear words by French learners of English: an experiment involving electrodermal activity"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Anastasija Rastovic
 - admin
 - Emmanuel Ferragne
 
@@ -13,8 +14,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021"
-doi: "https://doi.org/10.1016/j.specom.2021.10.004"
+date: "2019"
+doi: "https://doi.org/10.4000/anglophonia.2254"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -26,22 +27,22 @@ doi: "https://doi.org/10.1016/j.specom.2021.10.004"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Speech Communication*
+publication: In *Anglophonia*
 
-abstract: Our perception of someone's accent influences our expectations about what they might say or do. In this experiment, EEG data were recorded while participants listened to cliché sentences matching or not the stereotypes associated with the speaker's accent (upper-class Parisian accent or banlieue accent, a negatively connoted accent associated with youth from suburban areas; e.g. “I always listen to rap in my car” said with a banlieue accent (congruent) or an upper-class accent (incongruent)). Mismatches between social accent and stereotypical content triggered an event-related potential (ERP) known as the N400, albeit more anterior than the one observed for semantic violations, as well as a P3. These results are in line with other studies – conducted in particular with gender stereotypes – suggesting that stereotypes are stored in semantic categorical knowledge and that mismatches trigger integration difficulties and checking and updating mechanisms, and extend them to socially marked accents.
+abstract: Hearing swear words or taboo words causes us discomfort. Research suggests that emotional responses caused by such words are stronger when the words are spoken in the listener's first language (L1), rather than their second language (L2). We attempt to replicate these findings with a perceptual experiment. French learners of English were asked to listen to English and French swear words while their electrodermal activity (EDA) was monitored. Emotionally-neutral words were also included as baseline. EDA records small fluctuations in skin conductance caused by variations in the activity of sweat glands. Such variations are known to be correlated to the emotional state of the listener and reflect levels of stress or arousal in particular. We found a Word type ✕ Language interaction, which shows strong emotional reactions to swear words limited to the listener's first language. This supports the claims that the L1 and L2 may be embodied differently, with the L2 being processed only semantically but not affectively. The role of different factors on L2 emotionality is discussed.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we examine what happens in the electrical activity of the brain when what the speaker says does not match their accent. Results show that these mismatches trigger an N400, a component usually associated with semantic violations, as well as a P3, a component related to the updating of expectations.
+summary: In this study, we measured the electrodermal activity of French native speakers while they listened to control and taboo words in French and English. Results show that strong emotional reactions to swear words were limited to the listener's first language.
 
-tags: [ERPs, accent, stereotypes, N400]
+tags: [EDA, L2A, emotions, taboo words]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: Read it here
-   url: https://www.sciencedirect.com/science/article/pii/S0167639321001151
+ - name: Full text
+   url: https://journals.openedition.org/anglophonia/2254
 
 url_pdf: ''
 url_code: ''
@@ -54,10 +55,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
+image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
+  focal_point: ""
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
