@@ -46,7 +46,7 @@ experience:
     company_url: 'http://www.univ-paris3.fr/lpp-laboratoire-de-phonetique-et-phonologie-umr-7018-279.kjsp'
     location: Paris, France
     date_start: '2018-11-01'
-    date_end: '2019-09-31'
+    date_end: '2019-09-30'
     description: EEG research on mismatches between accent and message.
     
   - title: Doctoral researcher
