@@ -52,7 +52,7 @@ main_menu:
 
 # Localization
 
-date_format: '2 Jan 2006'
+date_format: 'Jan 2, 2006'
 time_format: '15:04'
 address_format: en-uk
 
@@ -95,7 +95,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: 2006
+  date_format: January, 2006
   citation_style: apa
 projects:
   post_view: 2
