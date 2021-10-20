@@ -25,7 +25,7 @@ doi: "https://doi.org/10.5281/zenodo.4032298"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Interpreting language learning data: tools and methods*
+publication: In *Speech Communication*
 
 abstract: Our perception of someone's accent influences our expectations about what they might say or do. In this experiment, EEG data were recorded while participants listened to cliché sentences matching or not the stereotypes associated with the speaker's accent (upper-class Parisian accent or banlieue accent, a negatively connoted accent associated with youth from suburban areas; e.g. “I always listen to rap in my car” said with a banlieue accent (congruent) or an upper-class accent (incongruent)). Mismatches between social accent and stereotypical content triggered an event-related potential (ERP) known as the N400, albeit more anterior than the one observed for semantic violations, as well as a P3. These results are in line with other studies – conducted in particular with gender stereotypes – suggesting that stereotypes are stored in semantic categorical knowledge and that mismatches trigger integration difficulties and checking and updating mechanisms, and extend them to socially marked accents.
 # Publication name and optional abbreviated publication name.
