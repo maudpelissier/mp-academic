@@ -6,15 +6,15 @@ title: "The N400 reveals implicit accent-induced prejudice"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Emmanuel Ferragne
+- Agnès Celle
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021"
-doi: "https://doi.org/10.1016/j.specom.2021.10.004"
+date: "2020"
+doi: "https://doi.org/10.1515/lingvan-2020-0109"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -26,22 +26,22 @@ doi: "https://doi.org/10.1016/j.specom.2021.10.004"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Speech Communication*
+publication: In *Linguistics Vanguard*
 
-abstract: Our perception of someone's accent influences our expectations about what they might say or do. In this experiment, EEG data were recorded while participants listened to cliché sentences matching or not the stereotypes associated with the speaker's accent (upper-class Parisian accent or banlieue accent, a negatively connoted accent associated with youth from suburban areas; e.g. “I always listen to rap in my car” said with a banlieue accent (congruent) or an upper-class accent (incongruent)). Mismatches between social accent and stereotypical content triggered an event-related potential (ERP) known as the N400, albeit more anterior than the one observed for semantic violations, as well as a P3. These results are in line with other studies – conducted in particular with gender stereotypes – suggesting that stereotypes are stored in semantic categorical knowledge and that mismatches trigger integration difficulties and checking and updating mechanisms, and extend them to socially marked accents.
+abstract: This paper offers a pragmatic account of two wh-questions in French used non-canonically - c’est quoi, ce N and qu’est-ce que constructions. It is claimed that in this non-canonical use, both constructions express surprise. As these constructions may be syntactically ambiguous between an information-seeking reading and a surprise reading, it is expected that the two readings differ in terms of prosody. This hypothesis is supported by the results of a production experiment. Experimental evidence shows significant prosodic differences between syntactically similar information-seeking questions and surprise questions. Surprise questions exhibit an increase in lengthening, slower speech rate and less frequent rising final contours.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we examine what happens in the electrical activity of the brain when what the speaker says does not match their accent. Results show that these mismatches trigger an N400, a component usually associated with semantic violations, as well as a P3, a component related to the updating of expectations.
+summary: This paper offers a pragmatic account of two wh-questions in French used non-canonically - "c’est quoi, ce N" and "qu’est-ce que constructions". It reports the results of production experiment.
 
-tags: [ERPs, accent, stereotypes, N400]
+tags: [surprise, questions, French]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
-links:
- - name: Read it here
-   url: https://www.sciencedirect.com/science/article/pii/S0167639321001151
+# links:
+#  - name: Read it here
+#    url: https://www.sciencedirect.com/science/article/pii/S0167639321001151
 
 url_pdf: ''
 url_code: ''
@@ -54,10 +54,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
- image:
+# image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #  focal_point: ""
-  preview_only: false
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
