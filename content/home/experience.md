@@ -23,29 +23,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Maître de Conférences (~Permanent Lecturer)
+    company: Université de Paris, laboratoire CLILLAC-ARP
+    company_url: 'https://u-paris.fr/'
+    # company_logo: org-gc
+    location: Paris, France
+    date_start: '2020-10-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Teaching in psycholinguistics and English didactics.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+  - title: Post-doctoral researcher
+    company: Universitetet i Agder, Experimental Linguistics Lab
+    company_url: 'https://ell.uia.no/'
+    location: Kristiansand, Norway
+    date_start: '2019-10-01'
+    date_end: '2020-09-31'
+    description: Eye-tracking research on form-priming in bilingual reading.
+    
+   - title: Post-doctoral researcher
+    company: Université Sorbonne Nouvelle, LPP
+    company_url: 'http://www.univ-paris3.fr/lpp-laboratoire-de-phonetique-et-phonologie-umr-7018-279.kjsp'
+    location: Paris, France
+    date_start: '2018-11-01'
+    date_end: '2019-09-31'
+    description: EEG research on mismatches between accent and message.
 design:
   columns: '2'
 ---
