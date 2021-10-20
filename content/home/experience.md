@@ -39,7 +39,7 @@ experience:
     location: Kristiansand, Norway
     date_start: '2019-10-01'
     date_end: '2020-09-30'
-    description: >- 
+    description: |2- 
       'Eye-tracking research on form-priming in bilingual reading.'
  
    - title: Post-doctoral researcher
