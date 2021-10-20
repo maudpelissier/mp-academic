@@ -41,7 +41,7 @@ experience:
     date_end: '2020-09-30'
     description: 'Eye-tracking research on form-priming in bilingual reading.'
  
-    - title: Post-doctoral researcher
+   - title: Post-doctoral researcher
     company: Université Sorbonne Nouvelle, LPP
     company_url: 'http://www.univ-paris3.fr/lpp-laboratoire-de-phonetique-et-phonologie-umr-7018-279.kjsp'
     location: Paris, France
