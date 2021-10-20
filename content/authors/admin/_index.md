@@ -3,6 +3,14 @@ title: Maud Pélissier
 role: Maître de Conférences (Permanent lecturer) in Psycholinguistics and
   Second Language Acquisition at Université de Paris
 avatar_filename: avatar
+organizations:
+  - name: Université de Paris
+    url: https://u-paris.fr/
+  - name: CLILLAC-ARP
+    url: http://www.clillac-arp.univ-paris-diderot.fr/index
+interests:
+  - SLA
+  - EEG
 social:
   - display:
       header: false
@@ -16,10 +24,6 @@ social:
     icon_pack: fab
     icon: linkedin
     label: likedin
-organizations:
-  - name: Université de Paris
-    url: https://u-paris.fr/
-  - name: CLILLAC-ARP
-    url: http://www.clillac-arp.univ-paris-diderot.fr/index
 superuser: true
 ---
+This is my biography.
