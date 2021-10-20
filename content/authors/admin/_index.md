@@ -23,8 +23,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Acquisition of foreign languages (L2)
-  - Acquisition of L2 syntax & morphosyntax
+  - L2 acquisition (syntax, morphosyntax, lexical stress)
   - Electrophysiological correlates of L2 processing (ERPs)
   - Bilingual reading
 
