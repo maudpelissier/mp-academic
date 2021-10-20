@@ -40,23 +40,7 @@ experience:
     date_end: '2020-09-31'
     description: Eye-tracking research on form-priming in bilingual reading.
     
-   - title: Post-doctoral researcher
-    company: Université Sorbonne Nouvelle, LPP
-    company_url: 'http://www.univ-paris3.fr/lpp-laboratoire-de-phonetique-et-phonologie-umr-7018-279.kjsp'
-    location: Paris, France
-    date_start: '2018-11-01'
-    date_end: '2019-09-31'
-    description: EEG research on mismatches between accent and message.
-    
-   - title: Doctoral researcher
-    company: Université Paris Diderot
-    company_url: 'https://u-paris.fr/'
-    location: Paris, France
-    date_start: '2014-09-01'
-    date_end: '2018-11-28'
-    description: PhD thesis "Effects of explicit and implicit training on the acquisition of English syntax by French learners: an ERP study" under the supervision of 
-    [Emmanuel Ferragne](https://www.emmanuelferragne.com/) and [Agnès Celle](https://www.researchgate.net/profile/Agnes-Celle).
-    
+
 design:
   columns: '2'
 ---
