@@ -39,16 +39,7 @@ experience:
     location: Kristiansand, Norway
     date_start: '2019-10-01'
     date_end: '2020-09-30'
-    description: |2- 
-      'Eye-tracking research on form-priming in bilingual reading.'
- 
-   - title: Post-doctoral researcher
-    company: Université Sorbonne Nouvelle, LPP
-    company_url: 'http://www.univ-paris3.fr/lpp-laboratoire-de-phonetique-et-phonologie-umr-7018-279.kjsp'
-    location: Paris, France
-    date_start: '2018-11-01'
-    date_end: '2019-09-30'
-    description: 'EEG research on mismatches between accent and message.'
+    description: 'Eye-tracking research on form-priming in bilingual reading.'
  
 design:
   columns: '2'
