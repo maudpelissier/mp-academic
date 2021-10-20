@@ -79,9 +79,10 @@ email: "maud.pelissier@u-paris.fr"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# move this
+# move this to main matter when ready
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 I am a Maître de Conférences (~Permanent lecturer) in psycholinguistics and second language acquisition at Université de Paris. My studies in English linguistics and cognitive science have led me to specialise in the cognitive aspects of the acquisition of English as a foreign language.
 
 
-[//]: # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
