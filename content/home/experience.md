@@ -30,7 +30,8 @@ experience:
     location: Paris, France
     date_start: '2020-10-01'
     date_end: ''
-    description: Teaching in psycholinguistics and English didactics.
+    description: |2-
+      Teaching in psycholinguistics and English didactics.
         
   - title: Post-doctoral researcher
     company: Universitetet i Agder, Experimental Linguistics Lab
