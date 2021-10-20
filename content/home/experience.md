@@ -38,7 +38,7 @@ experience:
     company_url: 'https://ell.uia.no/'
     location: Kristiansand, Norway
     date_start: '2019-10-01'
-    date_end: '2020-09-31'
+    date_end: '2020-09-30'
     description: Eye-tracking research on form-priming in bilingual reading.
     
 
