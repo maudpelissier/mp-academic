@@ -55,8 +55,7 @@ experience:
     location: Paris, France
     date_start: '2014-09-01'
     date_end: '2018-11-28'
-    description: PhD thesis "Effects of explicit and implicit training on the acquisition of English syntax by French learners: an ERP study" under the supervision of 
-    [Emmanuel Ferragne](https://www.emmanuelferragne.com/) and [Agnès Celle](https://www.researchgate.net/profile/Agnes-Celle).
+    description: 
      
 design:
   columns: '4'
