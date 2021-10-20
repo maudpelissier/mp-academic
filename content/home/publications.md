@@ -26,8 +26,8 @@ content:
     tag: ''
     category: ''
     publication_type: ''
-    author: 'admin'
-    exclude_featured: false
+    author: ''
+    exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
