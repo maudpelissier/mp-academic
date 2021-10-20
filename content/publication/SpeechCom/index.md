@@ -39,7 +39,7 @@ tags: [ERPs, accent, stereotypes, N400]
 featured: true
 
 # Custom links (uncomment lines below)
- links:
+links:
  - name: Read it here
    url: https://www.sciencedirect.com/science/article/pii/S0167639321001151
 
