@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:maud.pelissier@u-paris.fr'
   - icon: researchgate
     label: researchgate
     icon_pack: ai
