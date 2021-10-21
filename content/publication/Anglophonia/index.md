@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2019"
+date: 2019
 doi: "https://doi.org/10.4000/anglophonia.2254"
 
 # Schedule page publish date (NOT publication's date).
