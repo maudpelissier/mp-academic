@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: mpelissier.pro@gmail.com
+email: maud.pelissier@u-paris.fr
 address:
   street: Place Paul Ricoeur
   city: Paris
@@ -52,7 +52,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: 'Mon 02 Jan, 2006'
 time_format: '15:04'
 address_format: en-uk
 
