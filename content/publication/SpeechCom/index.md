@@ -13,7 +13,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021"
+date: "2021-10-22"
 doi: "https://doi.org/10.1016/j.specom.2021.10.004"
 
 # Schedule page publish date (NOT publication's date).

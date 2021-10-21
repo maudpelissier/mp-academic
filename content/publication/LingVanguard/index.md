@@ -13,7 +13,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020"
+date: "2020-11-01"
 doi: "https://doi.org/10.1515/lingvan-2020-0109"
 
 # Schedule page publish date (NOT publication's date).
