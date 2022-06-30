@@ -5,15 +5,15 @@ title: "Surprise questions in spoken French"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Agn�s Celle
 - admin
-- Agnès Celle
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-11-01"
+date: "2022-02-02"
 doi: "https://doi.org/10.1515/lingvan-2020-0109"
 
 # Schedule page publish date (NOT publication's date).
@@ -28,10 +28,10 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *Linguistics Vanguard*
 
-abstract: This paper offers a pragmatic account of two wh-questions in French used non-canonically - c’est quoi, ce N and qu’est-ce que constructions. It is claimed that in this non-canonical use, both constructions express surprise. As these constructions may be syntactically ambiguous between an information-seeking reading and a surprise reading, it is expected that the two readings differ in terms of prosody. This hypothesis is supported by the results of a production experiment. Experimental evidence shows significant prosodic differences between syntactically similar information-seeking questions and surprise questions. Surprise questions exhibit an increase in lengthening, slower speech rate and less frequent rising final contours.
+abstract: This paper offers a pragmatic account of two wh-questions in French used non-canonically - c'est quoi, ce N and qu'est-ce que constructions. It is claimed that in this non-canonical use, both constructions express surprise. As these constructions may be syntactically ambiguous between an information-seeking reading and a surprise reading, it is expected that the two readings differ in terms of prosody. This hypothesis is supported by the results of a production experiment. Experimental evidence shows significant prosodic differences between syntactically similar information-seeking questions and surprise questions. Surprise questions exhibit an increase in lengthening, slower speech rate and less frequent rising final contours.
 
 # Summary. An optional shortened abstract.
-summary: This paper offers a pragmatic account of two wh-questions in French used non-canonically - "c’est quoi, ce N" and "qu’est-ce que constructions". It reports the results of production experiment.
+summary: This paper offers a pragmatic account of two wh-questions in French used non-canonically - "c'est quoi, ce N" and "qu'est-ce que constructions". It reports the results of production experiment.
 
 tags: [surprise, questions, French]
 
@@ -40,8 +40,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-#  - name: Read it here
-#    url: https://www.sciencedirect.com/science/article/pii/S0167639321001151
+  - name: Read it here
+    url: https://www.degruyter.com/document/doi/10.1515/lingvan-2020-0109/html
 
 url_pdf: ''
 url_code: ''
