@@ -48,7 +48,7 @@ links:
 # - name: Read it here
 #   url: ''
  - name: Find the data and materials here
-   url_dataset: 'https://www.iris-database.org/iris/app/home/search?query=in%20press_P%C3%A9lissier_Haugland_Handeland_Zitong%20Urland_Wetterlin_Wheeldon_Frisson_Competition%20between%20form-related%20words%20in%20bilingual%20sentence%20reading:%20Effects%20of%20language%20proficiency'
+   url: 'https://www.iris-database.org/iris/app/home/search?query=in%20press_P%C3%A9lissier_Haugland_Handeland_Zitong%20Urland_Wetterlin_Wheeldon_Frisson_Competition%20between%20form-related%20words%20in%20bilingual%20sentence%20reading:%20Effects%20of%20language%20proficiency'
 
 url_pdf: ''
 url_code: ''
