@@ -7,7 +7,7 @@ title: "Competition between form-related words in bilingual sentence reading: Ef
 authors:
 - admin
 - Dag Haugland
-- Bjørn Handeland
+- BjÃ¸rn Handeland
 - Beatrice Zitong Urland
 - Linda Wheeldon
 - Allison Wetterlin
