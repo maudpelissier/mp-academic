@@ -1,5 +1,5 @@
 ---
-title: "Comparing ERPs between native speakers and second language learners : Dealing with individual variability"
+title: "Comparing ERPs between native speakers and second language learners: Dealing with individual variability"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
