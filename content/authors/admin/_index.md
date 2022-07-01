@@ -7,13 +7,13 @@ superuser: true
 
 # Role/position/tagline
 role: Maître de Conférences (Permanent lecturer) in Psycholinguistics and
-  Second Language Acquisition at Université de Paris
+  Second Language Acquisition at Université Paris Cité
   
 avatar_filename: avatar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Université de Paris
+  - name: Université Paris Cité
     url: https://u-paris.fr/
   - name: CLILLAC-ARP
     url: http://www.clillac-arp.univ-paris-diderot.fr/index
@@ -81,7 +81,7 @@ highlight_name: true
 # move this to main matter when ready
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
-I am a Maître de Conférences (~Permanent lecturer) in psycholinguistics and second language acquisition at Université de Paris. My studies in English linguistics and cognitive science have led me to specialise in the cognitive aspects of the acquisition of English as a foreign language.
+I am a Maître de Conférences (~Permanent lecturer) in psycholinguistics and second language acquisition at Université Paris Cité. My studies in English linguistics and cognitive science have led me to specialise in the cognitive aspects of the acquisition of English as a foreign language.
 
 
 
