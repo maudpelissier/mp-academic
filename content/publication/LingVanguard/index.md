@@ -40,7 +40,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - name: Read it here
+  - name: Full text
     url: https://www.degruyter.com/document/doi/10.1515/lingvan-2020-0109/html
 
 url_pdf: ''
