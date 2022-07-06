@@ -43,7 +43,7 @@ links:
  - name: Read it here
    url: https://www.sciencedirect.com/science/article/pii/S0167639321001151
  - name: Appendix
-   url_pdf: https://drive.google.com/open?id=19ow6-6ioU70RBEN7CjZqMuzdA6pBMAXc&authuser=maudpelis%40gmail.com&usp=drive_fs
+   url: https://drive.google.com/open?id=19ow6-6ioU70RBEN7CjZqMuzdA6pBMAXc&authuser=maudpelis%40gmail.com&usp=drive_fs
 url_code: ''
 url_dataset: ''
 url_poster: ''
