@@ -44,7 +44,7 @@ links:
    url: https://www.sciencedirect.com/science/article/pii/S0167639321001151
  - name: Appendix
    #url: https://drive.google.com/open?id=19ow6-6ioU70RBEN7CjZqMuzdA6pBMAXc&authuser=maudpelis%40gmail.com&usp=drive_fs
-    url_pdf: C:\Users\Maud.DESKTOP-03N19FA\Mon Drive\Work\Research\VoxCrim\SpeechComPaper\FinalDocsArticle\final\N400-accent-induced-prejudice_appendix.pdf
+    url_pdf: C://Users//Maud.DESKTOP-03N19FA//Mon Drive//Work//Research//VoxCrim//SpeechComPaper//FinalDocsArticle//final//N400-accent-induced-prejudice_appendix.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
