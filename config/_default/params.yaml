@@ -8,7 +8,8 @@
 theme_day: myTheme
 #theme_night: minimal
 #day_night: true
-font: ''
+#font: ''
+font: Classic
 font_size: L
 
 # SEO
