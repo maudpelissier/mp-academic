@@ -34,7 +34,7 @@ abstract: >-
 #summary: This paper reports the result of a longitudinal experiment testing the evolution of the Tip-of-the-tongue rate in L1 and L2 during a year abroad among French learners of English. 
 
 
-tags: [attrition; language dominance]
+tags: [attrition, language dominance]
 
 # Display this page in the Featured widget?
 featured: false
