@@ -16,7 +16,7 @@ organizations:
   - name: Université Paris Cité
     url: https://u-paris.fr/
   - name: CLILLAC-ARP
-    url: http://www.clillac-arp.univ-paris-diderot.fr/index
+    url: https://clillac-arp.u-paris.fr/
     
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -81,7 +81,7 @@ highlight_name: true
 # move this to main matter when ready
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
-I am a Maître de Conférences (~Permanent lecturer) in psycholinguistics and second language acquisition at Université Paris Cité. My studies in English linguistics and cognitive science have led me to specialise in the cognitive aspects of the acquisition of English as a foreign language.
+I am a Maître de Conférences (~Permanent lecturer) in psycholinguistics and second language acquisition at Université Paris Cité. My studies in English linguistics and cognitive science have led me to focus my research on the cognitive aspects of the acquisition and processing of English as a foreign language.
 
 
 
