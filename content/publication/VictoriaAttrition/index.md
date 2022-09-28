@@ -13,7 +13,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2016-06-25"
+date: "2022-10-19"
 #doi: "https://doi.org/"
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ date: "2016-06-25"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 6th ISEL Conference on Experimental Linguistics*
+publication: In *Proceedings of the 13th International Conference on Experimental Linguistics*
 
 abstract: >-
   Previous research found that changes in the linguistic and socio-linguistic environment of bilinguals can provoke language dominance shifts. Investigating vocabulary loss permits to find differences in the quality and quantity of linguistic knowledge that deteriorates through attrition processes. This longitudinal study evaluated the effects of study abroad programs on L1 cognate and non-cognate word retrieval. Subjects were French-English bilinguals spending one to two semesters in an English-speaking country. Results of a picture-naming task show that the participants experienced less tip-of-the-tongue states in their L1 than in their L2 and retrieved cognates more easily than non-cognates. Profiling questionnaires helped to evaluate the correlation between those results and their monthly exposure to English.
