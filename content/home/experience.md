@@ -32,7 +32,7 @@ experience:
     date_end: ''
     description: |2-
       Teaching in psycholinguistics and English didactics.
-	          
+        
   - title: Post-doctoral researcher
     company: Universitetet i Agder, Experimental Linguistics Lab
     company_url: 'https://ell.uia.no/'
