@@ -27,9 +27,9 @@ experience:
     company: Universitetet i Agder, Experimental Linguistics Lab
     company_url: 'https://ell.uia.no/'
     location: Kristiansand, Norway
-    date_start: '2019-10-01'
-    date_end: '2020-09-30'
-    description: 'Eye-tracking research on form-priming in bilingual reading.'
+    date_start: '2023-01-10'
+    date_end: '2023-07-31'
+    description: 'EEG research on non-native contrast perception.'
 
   - title: Maître de Conférences (~Permanent Lecturer)
     company: Université de Paris, Laboratoire CLILLAC-ARP
