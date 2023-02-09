@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Visiting researcher
+    company: Universitetet i Agder, Experimental Linguistics Lab
+    company_url: 'https://ell.uia.no/'
+    location: Kristiansand, Norway
+    date_start: '2023-01-10'
+    date_end: ''
+    description: 'EEG research on non-native contrast perception.'
+
   - title: Maître de Conférences (~Permanent Lecturer)
     company: Université de Paris, Laboratoire CLILLAC-ARP
     company_url: 'https://u-paris.fr/'

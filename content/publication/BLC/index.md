@@ -19,7 +19,7 @@ authors:
 # - "Equal contribution"
 
 date: "2022-06-22"
-doi: ""
+doi: "https://doi.org/10.1017/S1366728922000529"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -45,8 +45,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-# - name: Read it here
-#   url: ''
+ - name: Full text
+   url: https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/competition-between-formrelated-words-in-bilingual-sentence-reading-effects-of-language-proficiency/0AFA5F04EE3D651BBDB8C75E262FEAD3
  - name: Data and materials
    url: https://www.iris-database.org/iris/app/home/search?query=in%20press_P%C3%A9lissier_Haugland_Handeland_Zitong%20Urland_Wetterlin_Wheeldon_Frisson_Competition%20between%20form-related%20words%20in%20bilingual%20sentence%20reading:%20Effects%20of%20language%20proficiency
 
