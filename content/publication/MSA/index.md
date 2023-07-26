@@ -7,7 +7,8 @@ title: "Multidimensional Signals and Analytic Flexibility: Estimating Degrees of
 authors:
 - Stefano Coretta
 - Joseph V. Casillas
-- Maud Pélissier et al
+- admin
+- [...]
 - Timo Roettger
 
 # Author notes (optional)
