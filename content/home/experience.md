@@ -28,7 +28,7 @@ experience:
     company_url: 'https://ell.uia.no/'
     location: Kristiansand, Norway
     date_start: '2023-01-10'
-    date_end: ''
+    date_end: '2023-06-30'
     description: 'EEG research on non-native contrast perception.'
 
   - title: Maître de Conférences (~Permanent Lecturer)

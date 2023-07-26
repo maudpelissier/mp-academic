@@ -8,7 +8,7 @@ authors:
 - Stefano Coretta
 - Joseph V. Casillas
 - admin
-- [...]
+- \[...\]
 - Timo Roettger
 
 # Author notes (optional)
