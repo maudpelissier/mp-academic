@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 
 date: "2023-07-20"
-doi: "https://doi.org/10.1016/j.specom.2021.10.004"
+doi: "https://doi.org/10.1177/25152459231162567"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -41,8 +41,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Read it here
-   url: https://journals.sagepub.com/doi/full/10.1177/25152459231162567
+ #- name: Read it here
+  # url: https://journals.sagepub.com/doi/full/10.1177/25152459231162567
 url_code: ''
 url_dataset: ''
 url_poster: ''
