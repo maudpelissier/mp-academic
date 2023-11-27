@@ -1,6 +1,6 @@
 ---
 title: INTEGRAL
-summary: In this project funded by Université Paris Cité (BRIO grant), I investigate the impact of interleaving practice on the acquisition of inversion in main vs. embedded questions in English by French learners.
+summary: A project investigating the impact of interleaving practice on the acquisition of inversion in main vs. embedded questions in L2 English by French learners.
 tags:
 - L2A
 date: "2023-11-27T00:00:00Z"
@@ -30,4 +30,5 @@ url_video: ""
 #slides: example
 ---
 
-Extra
+INterleaving for GRAmmar Learning
+In this project funded by Université Paris Cité (BRIO grant), I investigate the impact of interleaving practice on the acquisition of inversion in main vs. embedded questions in L2 English by French learners.
