@@ -28,8 +28,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: L2A
+    tag: L2A
   - name: Other
     tag: Demo
 
@@ -42,7 +42,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 1
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
