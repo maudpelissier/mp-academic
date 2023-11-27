@@ -1,9 +1,9 @@
 ---
 title: INTEGRAL
-summary: 
+summary: In this project funded by Université Paris Cité (BRIO grant), I investigate the impact of interleaving practice on the acquisition of inversion in main vs. embedded questions in English by French learners.
 tags:
 - L2A
-date: "2016-04-27T00:00:00Z"
+date: "2023-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
-In this project funded by Université Paris Cité (BRIO grant), I investigate the impact of interleaving practice on the acquisition of inversion in main vs. embedded questions in English by French learners.
+Extra
