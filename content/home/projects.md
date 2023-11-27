@@ -8,7 +8,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 
 title: Projects
 subtitle: ''
@@ -30,8 +30,6 @@ content:
     tag: '*'
   - name: L2A
     tag: L2A
-  - name: Other
-    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
