@@ -1,6 +1,6 @@
 ---
 title: INTEGRAL
-summary: An example of using the in-built project page.
+summary: 
 tags:
 - L2A
 date: "2016-04-27T00:00:00Z"
