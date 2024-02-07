@@ -33,7 +33,7 @@ tags: [phonology, ERPs, individual differences]
 # Is this a featured talk? (true/false)
 featured: true
 
- image:
+image:
   caption: 'Difference waves for each phoneme at FCz'
   focal_point: Right
 
