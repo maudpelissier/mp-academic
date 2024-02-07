@@ -6,7 +6,7 @@ event_url: https://aflico9.sciencesconf.org
 location: Lyon France
 
 summary: "We will present the results of a study the autonomous reaction to swear words in L1 French and L2 English, as measured by electrodermal activity."
-abstract: "The "foreign language effect" (FLE) is a psycholinguistic phenomenon observed in bilingual individuals, acting as an emotional &quot;filter&quot; that differentiates their native language (L1) from a
+abstract: "The 'foreign language effect' (FLE) is a psycholinguistic phenomenon observed in bilingual individuals, acting as an emotional &quot;filter&quot; that differentiates their native language (L1) from a
 subsequently acquired foreign language (Pavelenko, 2005, 2008; Shanahan, 2008). This
 disparity influences the emotional depth of language use, with L1 being more intuitive,
 emotionally loaded, and context dependent (Grosjean & Li, 2013; Pavlenko, 2005).
