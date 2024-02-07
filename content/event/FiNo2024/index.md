@@ -1,5 +1,5 @@
 ---
-title: To voice or not to voice: cross-linguistic effects on phonological representations
+title: "To voice or not to voice: cross-linguistic effects on phonological representations"
 event: Fonologi i Norden 2024
 event_url: https://fonologiinorden.wordpress.com
 
