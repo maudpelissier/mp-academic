@@ -26,7 +26,7 @@ authors:
 - admin
 - Emmanuel Ferragne
 
-tags: [EDA, emotions]
+tags: [EDA, emotions, taboo words]
 
 # Is this a featured talk? (true/false)
 featured: true
