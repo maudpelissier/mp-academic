@@ -5,7 +5,10 @@ event_url: https://fonologiinorden.wordpress.com
 
 location: Stockholm, Sweden
 
-summary: Talk at FiNo
+summary: "We will present the results of a study on asymmetries in the perception of two contrasts by Norwegian learners of English, one similar in the two languages (/t-d/) and one L2-specific (/s-z/). 
+Participants completed an ABX categorisation task, a lexical decision task (LDT) and an MMN task. Results reveal an asymmetry at the behavioural level between the two phonemes of the /s-z/ contrast: performance was worst when having to reject /z/ nonwords, i.e., nonwords created by replacing /z/ with /s/ (e.g., /ˈpɔɪsn/ for ‘poison’).
+MMN analyses show an asymmetry between /t/ and /d/, with an MMN for deviant /t/ only, in line with previous studies with Danish speakers but not with English speakers. 
+No asymmetry was found for the /s-z/ contrast."
 abstract: "For learners of a second language (L2), a foreign accent is one of the most difficult aspects to overcome (Flege, 1995). Adult learners often have trouble distinguishing two sounds in the target language when that contrast does not exist in their first language (L1) (Best & McRoberts, 2003). For example, Danish and Swedish learners of English find it difficult to perceive and produce the voicing contrast between [s] and [z] in English, as it is not used in their L1 (Bohn & Ellegaard, 2019; Flege & Hillenbrand, 1986). Research conducted with monolinguals has demonstrated asymmetries in the perception of certain phonological features, suggesting that some features are underspecified in phonological representations (Lahiri & Reetz, 2010). These asymmetries can vary depending on the language: while there is evidence that [+VOICE] is an underspecified feature in English (Hestvik & Durvasula, 2016), [-VOICE] has been found to be underspecified in Japanese (Hestvik et al., 2020) and in Danish (Højlund et al., 2019). An opposite asymmetry for the [VOICE] feature is therefore expected in L1 English and L1 Norwegian speakers. There are also reasons to believe that this opposite asymmetry might affect the perception of a [VOICE] contrast in L2 English for native speakers of Norwegian. Yet, no research has examined perceptual asymmetries in bilinguals, especially when these asymmetries occur in contrasting directions in their two languages. 
 In this study, 36 Norwegian-English late bilinguals completed a series of perception experiment: an ABX categorisation task, a lexical decision task (LDT), and an MMN task using a standard oddball paradigm with several standards. Two contrasts were included: /t/ vs /d/, which exists in both languages but could lead to a different pattern of language-specific asymmetries, and /s/ vs /z/, a contrast which does not exist in Norwegian. 
 Preliminary results show that while participants were able to acoustically distinguish between the two contrasts in the categorisation task, they performed better with the similar /t-d/ contrast in the categorization task and LDT. Their performance was worst when having to reject /z/ nonwords, i.e., nonwords created by replacing /z/ with /s/ (e.g., /ˈpɔɪsn/ for ‘poison’).
@@ -30,17 +33,17 @@ tags: [phonology, ERPs, individual differences]
 # Is this a featured talk? (true/false)
 featured: true
 
-# image:
- # caption: 'Example of a Filamentary Distribution'
- # focal_point: Right
+ image:
+  caption: 'Difference waves for each phoneme at FCz'
+  focal_point: Right
 
-# links:
+ links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/
 # url_code: ""
-# url_pdf: ""
+  url_pdf: "FiNo_Abstract.pdf"
 # url_slides: "BayesComp2023_slides.pdf"
 # url_video: ""
 
