@@ -7,7 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: Maître de Conférences (Permanent lecturer) in Psycholinguistics and
-  Second Language Acquisition at Université Paris Cité
+  Second Language Acquisition
   
 avatar_filename: avatar
 
@@ -17,6 +17,10 @@ organizations:
     url: https://u-paris.fr/
   - name: CLILLAC-ARP
     url: https://clillac-arp.u-paris.fr/
+  - name: Department of English studies
+    url: https://u-paris.fr/etudes-anglophones/en/homepage/
+  - name: Labex Empirical Foundations of Linguistics
+    url: https://en.labex-efl.fr/
     
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
