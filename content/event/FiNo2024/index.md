@@ -41,7 +41,7 @@ links:
 # url_code: ""
 # url_pdf: "FiNo_Abstract.pdf"
 - name: Slides
-  url_slides: https://drive.google.com/file/d/1M4QGwCM9UY1Mqop3XOl-S2b96ThfmuXz/view?usp=sharing
+  url: https://drive.google.com/file/d/1M4QGwCM9UY1Mqop3XOl-S2b96ThfmuXz/view?usp=sharing
 # url_video: ""
 
 
