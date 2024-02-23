@@ -40,7 +40,7 @@ links:
 #  url: https://twitter.com/
 # url_code: ""
 # url_pdf: "FiNo_Abstract.pdf"
-  url_slides: "FiNo_slides.pdf"
+# url_slides: "FiNo_slides.pdf"
 # url_video: ""
 
 
