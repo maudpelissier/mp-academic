@@ -33,7 +33,7 @@ featured: true
 #  caption: 'Difference waves for each phoneme at FCz'
 #  focal_point: Right
 
-links:
+#links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
