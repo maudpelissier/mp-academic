@@ -33,14 +33,15 @@ featured: true
 #  caption: 'Difference waves for each phoneme at FCz'
 #  focal_point: Right
 
-#links:
+links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/
 # url_code: ""
 # url_pdf: "FiNo_Abstract.pdf"
-# url_slides: "BayesComp2023_slides.pdf"
+- name: Slides
+  url: https://drive.google.com/file/d/1M4QGwCM9UY1Mqop3XOl-S2b96ThfmuXz/view?usp=sharing
 # url_video: ""
 
 
