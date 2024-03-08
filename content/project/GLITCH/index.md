@@ -6,13 +6,15 @@ tags:
 date: "2023-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://glitch-project.netlify.app/"
 
 image:
   #caption: Photo by rawpixel on Unsplash
   #focal_point: Smart
 
 links:
+- name: Website
+  url:https://glitch-project.netlify.app/
 #- icon: twitter
 # icon_pack: fab
 #  name: Follow
@@ -21,8 +23,6 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-- name: Website
-  url:https://glitch-project.netlify.app/
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
