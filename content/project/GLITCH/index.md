@@ -13,8 +13,6 @@ image:
   #focal_point: Smart
 
 links:
-- name: Website
-  url:https://glitch-project.netlify.app/
 #- icon: twitter
 # icon_pack: fab
 #  name: Follow
