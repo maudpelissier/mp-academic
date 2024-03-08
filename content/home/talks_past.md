@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 'Recent & Upcoming Talks'
+title: 'Past talks'
 subtitle:
 
 content:
@@ -24,7 +24,7 @@ content:
     category: ""
     tag: ""
     exclude_featured: false
-    exclude_future: false
+    exclude_future: true
 #	exclude_past: true
     exclude_past: false
     publication_type: ""
@@ -39,5 +39,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 1
 ---
