@@ -27,7 +27,7 @@ authors:
 - Allison Wetterlin
 - Steven Frisson
 - Linda Wheeldon
-tags: [phonology, ERPs, individual differences]
+tags: [competition, bilingual reading, eye movements, orthographic priming, individual differences]
 
 # Is this a featured talk? (true/false)
 featured: true
