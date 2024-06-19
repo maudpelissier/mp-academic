@@ -5,7 +5,7 @@ event_url: https://amlap2024.ed.ac.uk/
 
 location: Edinburgh, United Kingdom
 
-summary: "We will present the results of a study examining the effects of individual differences in L2 proficiency, working memory, and inhibitory control skills, on form-related priming in L2 sentence reading.
+summary: "We will present the results of a study examining the effects of individual differences in L2 proficiency, working memory, and inhibitory control skills, on form-related priming in L2 sentence reading."
 abstract: "We eyetracked Norwegian-English bilinguals while they read sentences in English containing form-related prime-target pairs (e.g., pink-mink) in sentences or unrelated control pairs (blue-mink). Two factors were manipulated: the distance between prime and target (short vs long) and whether they were in the same sentence (sentence break vs no sentence break).
 Participants also completed a range of tasks targetting their working memory abilities, their inhibitory control skills, and their L2 proficiency.
 Results show that inhibitory control does not explain the persistent inhibitory form-priming effects found in previous literature. Better working memory can be associated with more persistent inhibitory form priming, but this is neutralized by a sentence break, consistent with previous findings that readers discard low-level information at a sentence boundary (Frisson et al., 2014)."
