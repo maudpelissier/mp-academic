@@ -27,7 +27,7 @@ authors:
 tags: [phonology, ERPs, individual differences]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 #image:
 #  caption: 'Difference waves for each phoneme at FCz'
@@ -40,8 +40,8 @@ links:
 #  url: https://twitter.com/
 # url_code: ""
 # url_pdf: "FiNo_Abstract.pdf"
-#- name: Slides
-#  url: https://drive.google.com/file/d/1M4QGwCM9UY1Mqop3XOl-S2b96ThfmuXz/view?usp=sharing
+- name: Poster
+  url: https://drive.google.com/file/d/1cyD5zEZbOFsw5YxKDhWLbt2WFrvGeSnr/view?usp=sharing
 # url_video: ""
 
 

@@ -43,8 +43,8 @@ links:
 #  url: https://twitter.com/
 # url_code: ""
 # url_pdf: "FiNo_Abstract.pdf"
-#- name: Slides
-#  url: https://drive.google.com/file/d/1M4QGwCM9UY1Mqop3XOl-S2b96ThfmuXz/view?usp=sharing
+- name: Poster
+  url: https://drive.google.com/file/d/1cyv6Kk9ln_zRi-ipUx8MRteHIzummfBT/view?usp=sharing
 # url_video: ""
 
 
