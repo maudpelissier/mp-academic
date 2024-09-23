@@ -32,4 +32,6 @@ url_video: ""
 
 GLITCH: Grammar Learning Techniques for L2
 
-This is an ANR-JCJC project (national young researcher grant) attributed to me for 4 years (2024-2028).
+The **GLITCH** research project focuses on the role of memory in grammar learning in a second language. 
+GLITCH stands for Grammar LearnIng TeCHniques for a second language. 
+It is funded by a young researcher grant from the French National Research Agency (ANR) awarded to me for 2024-2028.
