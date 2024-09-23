@@ -3,7 +3,7 @@ title: "Competition between form-related words in second language reading"
 event: Mind your language! seminar, Centre de Recherches en Neurosciences de Lyon
 #event_url: https://amlap2024.ed.ac.uk/
 
-location: Lyon, France
+location: Centre de Recherches en Neurosciences de Lyon, France
 
 summary: "During single word reading, lexical selection can be slowed by the activation of form-related words (e.g., Davis & Lupker, 2006; Segui & Grainger, 1990). Sentence reading studies have also shown evidence of inhibitory priming between form-related words (Paterson et al., 2009) – for example, pork will be read more slowly in a sentence like William used the fork to eat the pork on his plate compared to a controlled sentence like William used the knife to eat the pork on his plate. Interestingly, this effect is more persistent (i.e., observed across more intervening words) for good comprehenders in their L1 (Frisson et al., 2014). I will present the results of two studies showing that this is also the case for higher proficiency second language learners, but that inhibitory priming effects crucially depend on phonological decoding skills (Pélissier et al., 2023). Interestingly, these effects do not seem to be related to the bilinguals’ inhibition abilities but rather to their language proficiency and working memory capacities (Pélissier et al., in prep.)."
 
