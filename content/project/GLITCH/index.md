@@ -2,11 +2,11 @@
 title: GLITCH
 summary: A project investigating the impact of retrieval and spaced practice on L2 English grammar learning and the role of declarative and procedural memory.
 tags:
-- L2A
+- L2A, memory, grammar
 date: "2023-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://glitch-project.netlify.app/"
+#external_link: "https://glitch-project.netlify.app/"
 
 image:
   #caption: Photo by rawpixel on Unsplash
