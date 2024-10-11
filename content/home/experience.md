@@ -24,14 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Maître de Conférences (~Permanent Lecturer)
-    company: Université de Paris, Laboratoire CLILLAC-ARP
+    company: Université Paris Cité, Laboratoire CLILLAC-ARP
     company_url: 'https://u-paris.fr/'
     # company_logo: org-gc
     location: Paris, France
     date_start: '2020-10-01'
     date_end: ''
     description: |2-
-      Teaching in psycholinguistics and English didactics.
+      Research and teaching position. Teaching psycholinguistics and English didactics.
 
   - title: Visiting researcher
     company: Universitetet i Agder, Experimental Linguistics Lab
