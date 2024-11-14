@@ -8,7 +8,7 @@ tags:
 date: "2023-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-#external_link: "https://glitch-project.netlify.app/"
+external_link: "https://glitch-project.netlify.app/"
 
 image:
   #caption: Photo by rawpixel on Unsplash
