@@ -23,8 +23,8 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-- name: Website
-  url: https://glitch-project.netlify.app/
+#- name: Website
+#  url: https://glitch-project.netlify.app/
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
