@@ -3,6 +3,7 @@ title: INTEGRAL
 summary: A project investigating the impact of interleaving practice on the acquisition of inversion in main vs. embedded questions in L2 English by French learners.
 tags:
 - L2A
+- memory
 date: "2023-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
