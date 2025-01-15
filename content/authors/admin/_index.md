@@ -15,7 +15,7 @@ avatar_filename: avatar
 organizations:
   - name: Université Paris Cité
     url: https://u-paris.fr/
-  - name: CLILLAC-ARP
+  - name: ALTAE Lab
     url: https://clillac-arp.u-paris.fr/
   - name: Department of English studies
     url: https://u-paris.fr/etudes-anglophones/en/homepage/
