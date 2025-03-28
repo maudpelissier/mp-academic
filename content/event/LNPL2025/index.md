@@ -17,7 +17,7 @@ publishDate: "2025-02-14T00:00:00Z"
 
 authors: 
 - admin
-tags: [L2A, memory]
+tags: [L2A, memory, interleaving]
 
 # Is this a featured talk? (true/false)
 featured: true
