@@ -29,7 +29,7 @@ authors:
 tags: [EDA, emotions, taboo words]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 #image:
 #  caption: 'Difference waves for each phoneme at FCz'
