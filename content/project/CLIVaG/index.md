@@ -1,6 +1,6 @@
 ---
 title: "CLIVaG"
-#summary: "This is a research project on Cross-Linguistic Influence in Vowels and Geminates: Acoustic, perceptual and ERP study on L1 of late Salento Italian-French bilinguals, in collaboration with Marie Fongaro (PI) and Prof. Barbara Gili Fivela from the University of Salento."
+summary: "This is a research project on Cross-Linguistic Influence in Vowels and Geminates: Acoustic, perceptual and ERP study on L1 of late Salento Italian-French bilinguals, in collaboration with Marie Fongaro (PI) and Prof. Barbara Gili Fivela from the University of Salento."
 tags:
 - L2A
 - L2 influence
@@ -22,8 +22,8 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-#- name: Website
-# url: https://sites.google.com/view/mariehevrova/research/clivag?authuser=0
+- name: Website
+url: https://sites.google.com/view/mariehevrova/research/clivag?authuser=0
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
