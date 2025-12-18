@@ -23,7 +23,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 - name: Website
-url: https://sites.google.com/view/mariehevrova/research/clivag?authuser=0
+url: "https://sites.google.com/view/mariehevrova/research/clivag?authuser=0"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
