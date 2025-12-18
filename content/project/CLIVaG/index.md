@@ -1,12 +1,12 @@
 ---
-title: CLIVaG
-summary: CLIVaG is the acronym of a 2-years research project titled Cross-Linguistic Influence in Vowels and Geminates: Acoustic, perceptual and ERP study on L1 of late Salento Italian-French bilinguals, funded under the call MSCA Fellowships CZ OP JAK, with Marie Fongaro as PI and Prof. Barbara GILI FIVELA from the University of Salento as her mentor.
+title: "CLIVaG"
+summary: This is a research project on Cross-Linguistic Influence in Vowels and Geminates: Acoustic, perceptual and ERP study on L1 of late Salento Italian-French bilinguals, in collaboration with Marie Fongaro (PI) and Prof. Barbara Gili Fivela from the University of Salento.
 tags:
 - L2A
 - L2 influence
 - Italian
 - French
-date: "2023-11-27T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://sites.google.com/view/mariehevrova/research/clivag?authuser=0"
