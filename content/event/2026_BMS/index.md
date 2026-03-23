@@ -10,7 +10,7 @@ summary: "I will present preliminary results of the first behavioural experiment
 # Talk start and end times.
 date: "2026-04-29T16:40:00Z"
 date_end: "2026-04-29T17:00:00Z"
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-12-18T00:00:00Z"
