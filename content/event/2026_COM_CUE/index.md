@@ -1,23 +1,23 @@
 ---
-title: "Learning from Examples: Testing the Benefits of Retrieval Practice for L2 Grammar Acquisition"
-event: Bilingualism Matters Symposium 2026
-event_url: https://www.bilingualism-matters.org/events/bilingualism-matters-symposium-2026?fbclid=IwdGRjcAMs12RjbGNrAyzXLWV4dG4DYWVtAjExAAEeCsapaMRA3YQtK23-RUpZmoMBSEdR_JTIFceA97QuCaqgHTrV-JGT-XI3etM_aem_6dTaZOOqmQ3-SY7IKUCixQ
+title: "Beyond the standard: Unfamiliar English accents slow down lexical access in learners"
+event: Conference on Multilingualism 2026
+event_url: https://com2026.sciencesconf.org/
 
-location: Milan, Italy
+location: Toulouse, France
 
-summary: "I will present preliminary results of the first behavioural experiment of the GLITCH ANR project. This study investigates how retrieval vs. restudy benefit grammar learning in a second language."
+summary: "We will present the results of an auditory lexical decision task revealing that non-standard, unfamiliar English accents slow down lexical access in French-speaking English learners."
 
 # Talk start and end times.
-date: "2026-04-29T16:40:00Z"
-date_end: "2026-04-29T17:00:00Z"
+date: "2026-05-29T00:00:00Z"
+#date_end: "2026-04-29T17:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2025-12-18T00:00:00Z"
+publishDate: "2026-03-123T00:00:00Z"
 
 authors: 
 - admin
-tags: [L2A, memory, retrieval]
+tags: [L2A, phonetics, lexical access]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -50,7 +50,7 @@ slides: example
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- GLITCH
+#projects:
+#- GLITCH
 
 ---
