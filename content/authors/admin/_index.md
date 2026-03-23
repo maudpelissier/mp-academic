@@ -27,7 +27,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - L2 acquisition (syntax, morphosyntax, lexical stress)
+  - L2 acquisition (syntax, morphosyntax, phonolexical representations)
   - Electrophysiological correlates of L2 processing (ERPs)
   - Bilingual reading
 
@@ -85,7 +85,7 @@ highlight_name: true
 # move this to main matter when ready
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
-I am a Maître de Conférences (~Permanent lecturer) in psycholinguistics and second language acquisition at Université Paris Cité. My studies in English linguistics and cognitive science have led me to focus my research on the cognitive aspects of the acquisition and processing of English as a foreign language.
+I am a Maître de Conférences (~Associate Professor) in psycholinguistics and second language acquisition at Université Paris Cité. My studies in English linguistics and cognitive science have led me to focus my research on the cognitive aspects of the acquisition and processing of English as a foreign language.
 
 
 
