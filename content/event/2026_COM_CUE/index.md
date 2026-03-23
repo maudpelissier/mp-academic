@@ -17,6 +17,7 @@ publishDate: "2026-03-23T00:00:00Z"
 
 authors: 
 - admin
+- Hannah King
 tags: [L2A, phonetics, lexical access]
 
 # Is this a featured talk? (true/false)
