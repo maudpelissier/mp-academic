@@ -38,7 +38,7 @@ abstract: Recent empirical studies have highlighted the large degree of analytic
 #tags: [ERPs, accent, stereotypes, N400]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
