@@ -29,7 +29,9 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of French Language Studies*
 
-abstract: Previous research shows that speakers use prosody to disambiguate between string-identical canonical information questions and noncanonical questions conveying surprise. In this study, we investigated whether the prosodic cues produced by speakers are enough for naïve listeners to distinguish between the two readings of two distinct question structures in French that can express either a request for information or an emotive reaction of surprise: ‘qu’est-ce que’ and ‘c’est quoi ce NP’ questions. This article provides experimental evidence that listeners can in fact disambiguate between the two interpretations based on prosodic cues alone, in particular the contour and the duration of the question word.
+abstract: "Previous research shows that speakers use prosody to disambiguate between string-identical canonical information questions and noncanonical questions conveying surprise. 
+In this study, we investigated whether the prosodic cues produced by speakers are enough for naive listeners to distinguish between the two readings of two distinct question structures in French that can express either a request for information or an emotive reaction of surprise: ‘qu’est-ce que’ and ‘c’est quoi ce NP’ questions. 
+This article provides experimental evidence that listeners can in fact disambiguate between the two interpretations based on prosodic cues alone, in particular the contour and the duration of the question word."
 
 # Summary. An optional shortened abstract.
 #summary: This paper offers a pragmatic account of two wh-questions in French used non-canonically - "c'est quoi, ce N" and "qu'est-ce que constructions". It reports the results of production experiment.
