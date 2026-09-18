@@ -1,6 +1,6 @@
 ---
 title: "The role of explicit metalinguistic knowledge in learning difficult L2 grammar"
-event: From theory to practice: Linguistics in the additional language classroom
+event: From theory to practice, Linguistics in the additional language classroom
 event_url: https://www.uia.no/english/about-uia/faculty/humanities-and-education/events/course-conference-seminar/lalc.html
 
 location: Kristiansand, Norway
