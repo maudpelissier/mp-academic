@@ -9,7 +9,7 @@ summary: "I will discuss results of a study investigating the role of explicit m
 
 # Talk start and end times.
 date: "2026-11-23T10:30:00Z"
-date_end: "2026-11-24T11:00:00Z"
+date_end: "2026-11-23T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
