@@ -14,13 +14,15 @@ avatar_filename: avatar
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Université Paris Cité
-    url: https://u-paris.fr/
+    url: https://u-pariscite.fr/
   - name: ALTAE Lab
-    url: https://clillac-arp.u-paris.fr/
+    url: https://altae.u-pariscite.fr/en/home/
   - name: Department of English studies
     url: https://u-paris.fr/etudes-anglophones/en/homepage/
-  - name: Labex Empirical Foundations of Linguistics
-    url: https://en.labex-efl.fr/
+  - name: inIdEx Empirical Foundations of Linguistics
+    url: https://efl.u-pariscite.fr/
+  - name: Paris Graduate School of Linguistics
+    url: https://paris-gsl.org/
     
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
